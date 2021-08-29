@@ -7,7 +7,7 @@ const app = express();
 const cors = require('cors');
 
 // Link para conexão com o DB Mongo
-mongoose.connect('mongodb+srv://admin:2608@cluster0.8yjk4.mongodb.net/BancoCurriculos?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://admin:qiCkeHCYrRhTNOzQ@cluster0.8yjk4.mongodb.net/BancoCurriculos?retryWrites=true&w=majority', {
     useNewUrlParser: true
 
 });
