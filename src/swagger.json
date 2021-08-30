@@ -9,6 +9,10 @@
 
   "servers": [
     {
+      "url": "https://d-back-end.herokuapp.com/",
+      "description": "Ambiente de produção"
+    },
+    {
       "url": "http://localhost:5000",
       "description": "Ambiente de desenvolvimento"
     }
